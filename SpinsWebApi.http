@@ -1,0 +1,6 @@
+@SpinsWebApi_HostAddress = http://localhost:5003
+
+GET {{SpinsWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
